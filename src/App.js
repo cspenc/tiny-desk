@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import YTSearch from 'ytsearch';
+import YTSearch from 'youtube-api-search';
 
 import VideoPlayer from './component/video_player';
 
