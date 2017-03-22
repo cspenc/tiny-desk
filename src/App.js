@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-header">
+        <div>
           <h2>Tiny Desk Player</h2>
         </div>
         <div>
