@@ -4,7 +4,7 @@ class VideoPlayer extends Component {
   render() {
     return (
       <div>
-        YO THIS IS WHERE THE PLAYER WILL BE HEHE
+        So this is where I will embed the current video
       </div>
     )
   }

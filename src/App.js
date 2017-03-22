@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import YTSearch from 'ytsearch';
 
 import VideoPlayer from './component/video_player';
 
